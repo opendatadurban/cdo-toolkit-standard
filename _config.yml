@@ -1,0 +1,34 @@
+title: Data Standard
+standard_title: Data standard
+city_short_name: CDO Toolkit
+city_long_name: city full name
+footer_text: Open Cities Lab (OCL) as part of UK Foreign Commission Development Office (FCDO) funding.
+copyright_text: 
+copyright_url: 
+team_email: example@example.com
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter: rouge
+plugins_dir: _plugins
+plugins:
+  - jekyll-feed
+  - jekyll-toc
+header_pages:
+  - _standard/index.md
+  - _pages/fork.md
+
+include:
+  - _pages
+  - _standard
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+assets:
+  sources:
+    - _sass
+    - assets/css
