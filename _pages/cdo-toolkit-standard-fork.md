@@ -1,7 +1,7 @@
 ---
 permalink: /fork
 layout: page
-title: How to create a data standard
+title: How to create a your standard
 description: How to create your own version of this standard 
 ---
 

@@ -18,7 +18,7 @@ plugins:
   - jekyll-toc
 header_pages:
   - _standard/index.md
-  - _pages/fork.md
+  - _pages/cdo-toolkit-standard-fork.md
 
 include:
   - _pages

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /standard
 layout: standard
 title: Data Standard
 description: The Data Standard helps city teams make decisions with data and supports the creation of great public services.
